@@ -1,0 +1,8 @@
+>> traindata.tar1=scorestraingd(1:1504,1);
+>> traindata.non1=scorestraingd(1505:3008,1);
+>> traindata.tar2=scorestrainstc(1:1504,1);
+>> traindata.non2=scorestrainstc(1505:3008,1);
+>> testdata.tar1=scoresdevgd(1:736,1);
+>> testdata.non1=scoresdevgd(737:1664,1);
+>> testdata.tar2=scoresdevstc(1:736,1);
+>> testdata.non2=scoresdevstc(737:1664,1);
