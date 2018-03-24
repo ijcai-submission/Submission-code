@@ -16,7 +16,7 @@ Matlab
 
 **Training**
   - Train Stage-I network `python Train_stage1.py`
-  - Generate attentionally weighted train, validation and evaluation set by running the codes: `python resnetCAMtraingen.py`
+  - Generate attentionally weighted train, validation and evaluation set `python resnetCAMtraingen.py`
   `python resnetCAMtrainspo.py` `python resnetCAMdevgen.py` `python resnetCAMdevspo.py` `python resnetCAMevalgen.py` `python resnetCAMevalspo.py`
   - Train Stage-II network `python Train_stage2.py`
 
